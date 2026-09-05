@@ -8,10 +8,10 @@ Software Engineer Trainee @ DS-IT Consultancy
 - 🎓 Computer Science graduate
 - 🐍 Developing projects using Python
 - 🤖 Exploring AI/ML fundamentals
-- 🌱 I’m currently learning  and Integrating AI to my workflow
+- 🌱 I’m currently learning and Integrating AI to my workflow
 
 🛠️ Tech Stack
- Python | HTML | CSS | JavaScript | SQL | Git | GitHub
+ Quality Assurance | manual & Automation testing | SQL | Postman API | Git | GitHub
 
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yashwanthvijay/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/)
